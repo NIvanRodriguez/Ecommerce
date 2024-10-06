@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mercedes-PC\\Desktop\\proyec\\Ecommerce\\EcommerceWebAssembly\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Mercedes-PC\\Desktop\\proyec\\Ecommerce\\EcommerceWebAssembly\\obj\\Debug\\net8.0\\compressed\\lbndi0kuz4.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Mercedes-PC\\Desktop\\proyec\\Ecommerce\\EcommerceWebAssembly\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Mercedes-PC\\Desktop\\proyec\\Ecommerce\\EcommerceWebAssembly\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Mercedes-PC\\Desktop\\proyec\\Ecommerce\\EcommerceWebAssembly\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerceWebAssembly.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EcommerceWebAssembly.props",
+      "PackagePath": "build\\EcommerceWebAssembly.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceWebAssembly.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceWebAssembly.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EcommerceWebAssembly.props",
+      "PackagePath": "buildTransitive\\EcommerceWebAssembly.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
