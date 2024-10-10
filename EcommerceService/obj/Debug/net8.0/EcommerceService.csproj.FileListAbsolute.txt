@@ -40,3 +40,4 @@ C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceService\obj\Debug\net8.0
 C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceService\obj\Debug\net8.0\refint\EcommerceService.dll
 C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceService\obj\Debug\net8.0\EcommerceService.pdb
 C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceService\obj\Debug\net8.0\ref\EcommerceService.dll
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceService\obj\Debug\net8.0\EcommerceService.sourcelink.json

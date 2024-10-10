@@ -32,3 +32,4 @@ C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceUtilities\obj\Debug\net8
 C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceUtilities\obj\Debug\net8.0\refint\EcommerceUtilities.dll
 C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceUtilities\obj\Debug\net8.0\EcommerceUtilities.pdb
 C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceUtilities\obj\Debug\net8.0\ref\EcommerceUtilities.dll
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceUtilities\obj\Debug\net8.0\EcommerceUtilities.sourcelink.json

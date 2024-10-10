@@ -1,0 +1,12 @@
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceDTO\bin\Debug\net7.0\EcommerceDTO.deps.json
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceDTO\bin\Debug\net7.0\EcommerceDTO.dll
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceDTO\bin\Debug\net7.0\EcommerceDTO.pdb
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceDTO\obj\Debug\net7.0\EcommerceDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceDTO\obj\Debug\net7.0\EcommerceDTO.AssemblyInfoInputs.cache
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceDTO\obj\Debug\net7.0\EcommerceDTO.AssemblyInfo.cs
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceDTO\obj\Debug\net7.0\EcommerceDTO.csproj.CoreCompileInputs.cache
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceDTO\obj\Debug\net7.0\EcommerceDTO.sourcelink.json
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceDTO\obj\Debug\net7.0\EcommerceDTO.dll
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceDTO\obj\Debug\net7.0\refint\EcommerceDTO.dll
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceDTO\obj\Debug\net7.0\EcommerceDTO.pdb
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceDTO\obj\Debug\net7.0\ref\EcommerceDTO.dll

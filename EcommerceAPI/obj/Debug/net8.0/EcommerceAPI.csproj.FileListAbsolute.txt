@@ -160,3 +160,4 @@ C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceAPI\obj\Debug\net8.0\ref
 C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.pdb
 C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.genruntimeconfig.cache
 C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceAPI\obj\Debug\net8.0\ref\EcommerceAPI.dll
+C:\Users\Mercedes-PC\Desktop\proyect\Ecommerce\EcommerceAPI\obj\Debug\net8.0\EcommerceAPI.sourcelink.json

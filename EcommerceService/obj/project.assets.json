@@ -1059,7 +1059,7 @@
       },
       "EcommerceDTO/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/EcommerceDTO.dll": {}
         },

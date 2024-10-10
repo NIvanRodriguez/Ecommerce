@@ -5,17 +5,17 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceModel", "EcommerceModel\EcommerceModel.csproj", "{A6E5C180-116B-42CE-836F-E0E0A9FE2C30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceRepository", "EcommerceRepository\EcommerceRepository.csproj", "{22550E9F-DD77-4584-B87D-1DE1A8E7C2D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceRepository", "EcommerceRepository\EcommerceRepository.csproj", "{22550E9F-DD77-4584-B87D-1DE1A8E7C2D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceService", "EcommerceService\EcommerceService.csproj", "{CDA1D2A6-F765-40B9-BF74-53CCA525EDAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceService", "EcommerceService\EcommerceService.csproj", "{CDA1D2A6-F765-40B9-BF74-53CCA525EDAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceDTO", "EcommerceDTO\EcommerceDTO.csproj", "{4492991F-9D0F-4A0C-B87F-9B9E4E43DB55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceDTO", "EcommerceDTO\EcommerceDTO.csproj", "{4492991F-9D0F-4A0C-B87F-9B9E4E43DB55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceUtilities", "EcommerceUtilities\EcommerceUtilities.csproj", "{325C53A7-970C-4B70-AD2B-376F456EE421}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceUtilities", "EcommerceUtilities\EcommerceUtilities.csproj", "{325C53A7-970C-4B70-AD2B-376F456EE421}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceAPI", "EcommerceAPI\EcommerceAPI.csproj", "{CF688DBC-FA78-41A8-BAE9-CD3EC48006A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceAPI", "EcommerceAPI\EcommerceAPI.csproj", "{CF688DBC-FA78-41A8-BAE9-CD3EC48006A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceWebAssembly", "EcommerceWebAssembly\EcommerceWebAssembly.csproj", "{2E5AE6BA-3DD8-419B-8248-915388D7F4D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommercerWebAsembly", "EcommercerWebAsembly\EcommercerWebAsembly.csproj", "{51E2295C-C1A1-48A6-8A38-BDA02764FBA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,10 +47,10 @@ Global
 		{CF688DBC-FA78-41A8-BAE9-CD3EC48006A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF688DBC-FA78-41A8-BAE9-CD3EC48006A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF688DBC-FA78-41A8-BAE9-CD3EC48006A0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2E5AE6BA-3DD8-419B-8248-915388D7F4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2E5AE6BA-3DD8-419B-8248-915388D7F4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2E5AE6BA-3DD8-419B-8248-915388D7F4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2E5AE6BA-3DD8-419B-8248-915388D7F4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E2295C-C1A1-48A6-8A38-BDA02764FBA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E2295C-C1A1-48A6-8A38-BDA02764FBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E2295C-C1A1-48A6-8A38-BDA02764FBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E2295C-C1A1-48A6-8A38-BDA02764FBA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
