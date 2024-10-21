@@ -26,16 +26,60 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Admin/Categoria.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcmlhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Admin/Categorias.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ2F0ZWdvcmlhcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Admin/DashBoard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRGFzaEJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Admin/Producto.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Admin/Productos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Admin/Usuario.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXN1YXJpby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Admin/Usuarios.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXN1YXJpb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Autorizacion/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b3JpemFjaW9uXExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Autorizacion/Registro.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0b3JpemFjaW9uXFJlZ2lzdHJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Tienda/Cart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGllbmRhXENhcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Tienda/Catalogo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGllbmRhXENhdGFsb2dvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Pages/Tienda/Detalle.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGllbmRhXERldGFsbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Shared/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Shared/NavMenu.razor]
@@ -49,7 +93,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Mercedes-PC/Desktop/proyect/Ecommerce/EcommercerWebAsembly/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-lrp3qlsdfi

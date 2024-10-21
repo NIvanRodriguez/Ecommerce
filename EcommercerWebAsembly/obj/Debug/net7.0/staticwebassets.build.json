@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "C6VW3fPjo7mMOTJZR8RyO8kiX40NLqWv3nMPSs+YPxA=",
+  "Hash": "HbsRAm8gXozYAU9vKx3l1Rxy+R3cesplZrEaOzRRhPA=",
   "Source": "EcommercerWebAsembly",
   "BasePath": "/",
   "Mode": "Root",
@@ -7843,25 +7843,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Mercedes-PC\\Desktop\\proyect\\Ecommerce\\EcommercerWebAsembly\\obj\\Debug\\net7.0\\scopedcss\\bundle\\EcommercerWebAsembly.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\Mercedes-PC\\Desktop\\proyect\\Ecommerce\\EcommercerWebAsembly\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EcommercerWebAsembly.bundle.scp.css",
-      "SourceId": "EcommercerWebAsembly",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Mercedes-PC\\Desktop\\proyect\\Ecommerce\\EcommercerWebAsembly\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-      "BasePath": "/",
-      "RelativePath": "EcommercerWebAsembly.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Mercedes-PC\\Desktop\\proyect\\Ecommerce\\EcommercerWebAsembly\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EcommercerWebAsembly.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\Mercedes-PC\\Desktop\\proyect\\Ecommerce\\EcommercerWebAsembly\\wwwroot\\css\\app.css",

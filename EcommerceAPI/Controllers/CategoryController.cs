@@ -16,7 +16,7 @@ namespace EcommerceAPI.Controllers
         {
             _categoryService = categoryService;
         }
-        [HttpGet("Lista/{buscar:alpha?}")]
+        [HttpGet("Lista/{buscar?}")]
         public async Task<IActionResult> Lista( string buscar = "NA")
         {
             var response = new ResponseDTO<List<CategoryDTO>>();

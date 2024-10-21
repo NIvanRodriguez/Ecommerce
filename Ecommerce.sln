@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceUtilities", "Ecomm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceAPI", "EcommerceAPI\EcommerceAPI.csproj", "{CF688DBC-FA78-41A8-BAE9-CD3EC48006A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommercerWebAsembly", "EcommercerWebAsembly\EcommercerWebAsembly.csproj", "{51E2295C-C1A1-48A6-8A38-BDA02764FBA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommercerWebAsembly", "EcommercerWebAsembly\EcommercerWebAsembly.csproj", "{51E2295C-C1A1-48A6-8A38-BDA02764FBA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

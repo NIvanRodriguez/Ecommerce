@@ -9,6 +9,10 @@ using EcommerceWebAssembly.Services.Contract;
 using EcommerceWebAssembly.Services.Implementation;
 using EcommercerWebAsembly;
 
+using CurrieTechnologies.Razor.SweetAlert2;
+
+
+
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
@@ -26,5 +30,7 @@ builder.Services.AddScoped<IProductServices, ProductServices>();
 builder.Services.AddScoped<ICartServices, CartServices>();
 builder.Services.AddScoped<ISaleServices, SaleServices>();
 builder.Services.AddScoped<IDashboardServices, DashboardServices>();
+
+builder.Services.AddSweetAlert2();
 
 await builder.Build().RunAsync();

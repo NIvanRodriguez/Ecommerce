@@ -1,7 +1,7 @@
 {
   "entryAssembly": "EcommercerWebAsembly",
   "resources": {
-    "hash": "sha256-TLFihK4+GtdMJNtNcQhN9LOLxTRaC/n8e4k0RZSvutI=",
+    "hash": "sha256-MFj+07otA/6yPZmev4T6zUzLv9NFg3WA5JSZA/Noe7E=",
     "runtime": {
       "dotnet.7.0.15.cixjlyxb44.js": "sha256-MHuxwxeVFybuBBTAWeZrvoStZpW+H4ThSaRcFvrfqXM=",
       "dotnet.timezones.blat": "sha256-aHk3Pm2JXopn6UPLJtovAqIdIk8GyIMzGm450cli9UE=",
@@ -205,11 +205,11 @@
       "netstandard.dll": "sha256-ohOFXxRJKiyPbitdA1y5ebD9fSAGELDRVmhDM2nVdtA=",
       "System.Private.CoreLib.dll": "sha256-7Y6AhJbgMptcdman3NtSEbcJV520wGmyxB8QvZwrUmc=",
       "EcommerceDTO.dll": "sha256-vQ3z/9mVCK4onxImlB2p8Y9n3HqdrrVkx6vQ4CTz3EU=",
-      "EcommercerWebAsembly.dll": "sha256-Os5Zga5d5EUPPmHTxkiEmSKpJgcUDS7q1OTjK0rQh5M="
+      "EcommercerWebAsembly.dll": "sha256-jDO8VBaHhqG2nQlasUMnJza5oeoVWQcYtOauiBbitUQ="
     },
     "pdb": {
       "EcommerceDTO.pdb": "sha256-QCiHTSkfiWtNQgTZr3/KdwF7Gnfp5bH/w8/te9Ue6bQ=",
-      "EcommercerWebAsembly.pdb": "sha256-NdKO2QPIohVdL/cc/DAMBd/SAfAoXamjniebJfog5g8="
+      "EcommercerWebAsembly.pdb": "sha256-9LBb4gRZqlRCCUFec0xDcslM2pIW8N/uWPOVaKoCBuQ="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
